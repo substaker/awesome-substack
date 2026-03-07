@@ -251,6 +251,7 @@ Substack has become one of the most important platforms for independent writing,
 - [Sidestack](https://sidestack.io/) - A directory of top Substack newsletters and authors across every category, with subscriber counts and rankings.
 - [Reletter](https://reletter.com/) - Charts and rankings of the most popular newsletters on Substack with engagement scores, traffic estimates, and contacts.
 - [SubstackTools](https://www.substacktools.com/) - A utility for tracking and exploring Substack publications by analyzing follower counts across Notes, Chat, and the Web.
+- [Substack Newsletter Scraper](https://apify.com/cryptosignals/substack-scraper) - A free Apify actor that extracts posts, authors, and publication metadata from any Substack newsletter using the public JSON API. No authentication required.
 - [InboxReads](https://inboxreads.co/) - Curated collections of the best newsletters, including Substack, filterable by topic.
 - [Substack Discover](https://substack.com/discover) - Substack's built-in discovery page for finding new publications by category and topic.
 - [Feedbin](https://feedbin.com/) - RSS reader that also supports following Substack newsletters alongside traditional RSS feeds.
