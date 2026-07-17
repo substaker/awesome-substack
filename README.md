@@ -53,6 +53,7 @@ Substack has become one of the most important platforms for independent writing,
 - [Computers Are Bad](https://computer.rip/) - Deep-cut technical and historical explorations of computing infrastructure.
 - [Scarlet Ink](https://www.scarletink.com/) - Dave Anderson (ex-Amazon Principal Engineer) on career development, leadership, and talent in tech.
 - [Latent Space](https://www.latent.space/) - The AI Engineer newsletter and top technical AI podcast covering how leading labs build Agents, Models, and Infrastructure.
+- [The Long Commit](https://newsletter.thelongcommit.com/) - Juan Cruz Martinez on engineering leadership, technical judgment, team dynamics, and the changing shape of software careers in the age of AI.
 
 ## Artificial Intelligence & Machine Learning
 
