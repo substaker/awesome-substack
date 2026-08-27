@@ -259,6 +259,7 @@ Substack has become one of the most important platforms for independent writing,
 
 ## Tools for Substack Writers
 
+- [substack-cli](https://github.com/HighnessAtharva/substack-cli) - Command line client for Substack. Push markdown files as drafts, publish, schedule, and pull your whole archive back to markdown. Zero dependencies.
 - [Substack Dashboard](https://substack.com/dashboard) - Built-in analytics, subscriber management, growth charts, and traffic source breakdowns.
 - [Google Analytics 4 (GA4)](https://analytics.google.com/) - Add your GA4 Measurement ID in Substack settings for deeper traffic analysis, UTM tracking, and conversion insights.
 - [Google Search Console](https://search.google.com/search-console) - Free tool for managing search performance and understanding how your Substack ranks in Google.
