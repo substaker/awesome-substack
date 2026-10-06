@@ -272,6 +272,7 @@ Substack has become one of the most important platforms for independent writing,
 - [SparkLoop](https://sparkloop.app/) - Newsletter referral platform that integrates with Substack for cross-promotion.
 - [GeniusLink / Booklinker](https://geniuslink.com/) - Track where your clicks are originating from across platforms.
 - [Tabular](https://tabular.email/) - Drag-and-drop email template editor for creating beautiful newsletter designs.
+- [FollowersAcheter.be Editorial Planner (XLSX)](https://followersacheter.be/resources/fr_BE/content-planner.xlsx) - French-language spreadsheet with 30 editable planning slots for topics, formats, dates, key messages and evaluation notes.
 
 ## Growth & Strategy Resources
 
