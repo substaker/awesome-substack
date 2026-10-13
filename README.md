@@ -90,6 +90,7 @@ Substack has become one of the most important platforms for independent writing,
 - [BIG by Matt Stoller](https://mattstoller.substack.com/) - The history and politics of monopoly power and corporate concentration.
 - [The Bear Cave](https://thebearcave.substack.com/) - Edwin Dorsey's investigative newsletter uncovering corporate fraud and short-selling ideas.
 - [The Marketing Newsletter](https://themarketingnewsletter.org/) - Ideas to help marketers and creators grow faster and work smarter. Covers marketing trends, strategies, and actionable insights for digital marketers.
+- [Stacy's Brain](https://newsletter.stacysbrain.com/) - Evidence-based marketing and growth: vetted insights from research, experiments and vendor reports, each rated by how much you can trust it.
 
 ## Finance & Investing
 
